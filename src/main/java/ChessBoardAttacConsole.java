@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // Комментарий - Комп
-
+// Коментарий - Ноутбук
 
 public class ChessBoardAttacConsole {
     private static char[][] chessBoard;
