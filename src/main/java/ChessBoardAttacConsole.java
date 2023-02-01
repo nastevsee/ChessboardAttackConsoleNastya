@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+// Комментарий - Комп
+
+
 public class ChessBoardAttacConsole {
     private static char[][] chessBoard;
     private static final char[] FIGURES = {'K', 'Q', 'B', 'B', 'N', 'N', 'R', 'R', 'P', 'P', 'P', 'P', 'P', 'P', 'P', 'P'};
